@@ -13,7 +13,7 @@ To run this project locally follow these steps :
 1. Download the .zip file of the repository and extract it in your system. Or you can clone the repository with the following command
 
 ```bash
-  git clone https://github.com/antu99g/Invoice-Generator.git
+  git clone https://github.com/antu99g/Invoice-Generator.gi
 ```
 
 2. Go to the project directory
